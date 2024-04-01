@@ -1,4 +1,6 @@
-**Popular platforms for automation testing:
+
+**The most popular tools for automation testing:
+
 
 - [Selenium](https://www.selenium.dev/) is an open source umbrella project for a range of tools and libraries aimed at supporting browser automation. At the core of Selenium is Selenium WebDriver, an interface to write instructions that work interchangeably across browsers.
 
