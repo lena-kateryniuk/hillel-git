@@ -1,4 +1,4 @@
-**The most popular tools:
+**The most popular frameworks for automation testing:
 
 - [Selenium](https://www.selenium.dev/) is an open source umbrella project for a range of tools and libraries aimed at supporting browser automation. At the core of Selenium is Selenium WebDriver, an interface to write instructions that work interchangeably across browsers.
 
@@ -17,3 +17,5 @@
   
 
 - [Cypress](https://www.cypress.io/) is a frontend test automation tool for automation testing of web applications.
+
+- Pytest is a Python testing framework that originated from the PyPy project. It can be used to write various types of software tests, including unit tests, integration tests, end-to-end tests, and functional tests.
