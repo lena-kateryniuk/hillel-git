@@ -1,0 +1,8 @@
+// all .txt files 
+*.txt
+
+// file test.doc
+test.doc
+
+// directory test
+test/
